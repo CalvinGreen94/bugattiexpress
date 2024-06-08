@@ -11,7 +11,7 @@ import img4 from "../assets/Images/4.webp";
 // import img5 from "../assets/Images/5.webp";
 import img6 from "../assets/Images/6.webp";
 // import img7 from "../assets/Images/7.webp";
-import img8 from "../assets/Images/8.webp";
+// import img8 from "../assets/Images/8.webp";
 import img9 from "../assets/Images/9.webp";
 // import img10 from "../assets/Images/10.webp";
 
@@ -284,7 +284,7 @@ Limited Lifetime warranty
 100% ABS
 Spot Clean
 Imported"/>
-        <Product architect="09 Electric Ride On Scooter" img={img8} title="Travel" description="One look at the unique aerodynamic design and high end appearance of the Bugatti electric scooter can tell you it is not just your average basic scooter. Fabricated with the everyday consumer in mind, sleek yet functional folding design and is available in 3 colors - agile Bbleu, silver-tone and black.
+        {/* <Product architect="09 Electric Ride On Scooter" img={img8} title="Travel" description="One look at the unique aerodynamic design and high end appearance of the Bugatti electric scooter can tell you it is not just your average basic scooter. Fabricated with the everyday consumer in mind, sleek yet functional folding design and is available in 3 colors - agile Bbleu, silver-tone and black.
 
 This product contains a lithium battery and will be delivered by Standard Ground Shipping and is not eligible for Premium or Overnight Shipping.
 This item may not be shipped to Northern Mariana, Armed Forces Europe, Federated States of Micronesia, Hawaii, Alaska, Armed Forces Pacific, Armed Forces Americas, Puerto Rico, American Samoa, Guam, Palau, U.S. Virgin Islands, Marshall Islands.
@@ -321,7 +321,7 @@ Number of players - 1
 Minimal assembly, connecting power button and handle bars – all specified in user manual step by step
 Magnesium Alloy, Rubber
 Wipe Clean
-Imported " />
+Imported " /> */}
       </Right>
     </Section>
   );

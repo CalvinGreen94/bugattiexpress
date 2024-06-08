@@ -160,8 +160,16 @@ const Navbar = () => {
           onClick={() => handleScroll('.new-arrival')}
         >
           {' '}
-          <Link to="/">Architecture Spotlight</Link>
+          <Link to="/">Bugatti Spotlight</Link>
         </Item>
+        {/* <Item
+          whileHover={{ scale: 1.1, y: -5 }}
+          whileTap={{ scale: 0.9, y: 0 }}
+          // onClick={() => <Link to="https://pump.fun/">Pump Fun</Link>}
+        >
+          {' '}
+          <Link to="https://pump.fun/">Pump Fun</Link>
+        </Item> */}
       </MenuItems>
     </NavContainer>
   );

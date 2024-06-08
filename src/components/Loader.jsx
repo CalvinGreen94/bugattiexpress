@@ -110,7 +110,9 @@ const Loader = () => {
             <Text variants={textVariants} initial="hidden" animate="visible">
         Mobile Coming Soon
       </Text>
-
+      <Text variants={textVariants} initial="hidden" animate="visible">
+        Please ener fullScreen (f11) for full interactivity
+      </Text>
 
     </Container>
   );

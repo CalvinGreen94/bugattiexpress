@@ -137,6 +137,8 @@ const Footer = () => {
         <h3 data-scroll data-scroll-speed="-1">
         Bugatti: Express
         </h3>
+        <a href="https://pump.fun/8xioThSSmMwuP2LFeyUMkgyw9qYT23sjwzYtddUVpump">Pump Fun</a>
+
       </LogoContainer>
       <FooterComponent
         initial={{ y: "-400px" }}
@@ -184,7 +186,7 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2023. All Rights Reserved.
+            &copy; 2024. All Rights Reserved.
           </span>
           {/* <span
             data-scroll

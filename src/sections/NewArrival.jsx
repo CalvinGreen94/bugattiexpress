@@ -217,7 +217,7 @@ let t1= gsap.timeline();
             <Title
         data-scroll data-scroll-speed="-2" data-scroll-direction="horizontal"
       >
-        Artist Spotlight
+        Exclusive Spotlight
         <br /> 
       </Title>
       {/* <Text> */}
@@ -233,14 +233,17 @@ let t1= gsap.timeline();
 
       <Container ref={ScrollingRef}>
         
-        <Photos img={img1} name="Bergisel Ski Jump" />
-        <Photos img={img2} name="Central Building" />
-        <Photos img={img3} name="Infinitus Plaza" />
-        <Photos img={img4} name="Serpentine North Gallery" />
+        <Photos img={img1} name="Veyron" />
+        <Photos img={img2} name="Chiron" />
+        <Photos img={img3} name="EB110" />
+        <Photos img={img4} name="TYPE 57SC" />
       </Container>
 
       <Text>
       <h1>Zooming In</h1>
+      <br />
+      <a href="https://pump.fun/8xioThSSmMwuP2LFeyUMkgyw9qYT23sjwzYtddUVpumph3"><h3>Pump Bugatti Express</h3></a>
+
       <br />
       {/* Zaha Hadid */}
         <br />
